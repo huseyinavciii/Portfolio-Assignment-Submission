@@ -198,20 +198,6 @@ This repository serves as a central hub for my C# projects, showcasing my progre
 4. **Database Integration**: Working with data persistence using Entity Framework
 5. **Project Architecture**: Applying proper design patterns and software architecture
 
-## 📚 Installation & Setup
-
-```bash
-# Clone any project repository
-git clone https://github.com/huseyinavciii/[repository-name]
-
-# Open in Visual Studio or use .NET CLI
-dotnet restore
-dotnet build
-dotnet run
-```
-
----
-
 <div align="center">
   <sub>Created with ❤️ by Hüseyin Avcı</sub>
   <p>Connect with me on GitHub: <a href="https://github.com/huseyinavciii">@huseyinavciii</a></p>
